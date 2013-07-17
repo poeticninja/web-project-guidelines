@@ -12,12 +12,13 @@ Communication to the client or product manager should be made during each step. 
 This could be setting the expectations to the client or the product manager. They need to understand the process and why each step is important. Good communication is the most important part of any project.
 
 ##Step 2. Laying the foundation
-###What is the problem
+###What are you trying to accomplish?
 Basically this is the justification for having a website. Depending on the site and the business there are different reasons, they could be:
 
 * Reduce time to market. Give up printing paper and going to the web.
 * Direct sale of products. (for e-Commerce)
 * Personal organisation of thoughts and information (blog)
+* Second revenue (blog)
  
 Identifying the underlying problem we are trying to solve defines already the rough scope of the website and is an important step to then define goals and sucess criterias.
 
