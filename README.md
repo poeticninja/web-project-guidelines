@@ -55,3 +55,8 @@ There is a lot that is needed with launching a site. Client review, setting up t
 ##Step 10
 ###Maintain Website and Client Relationship
 This is where you would maintain the upkeep of of the website and keep following up with the client to make sure thay are happy. Now you can look back and say you have successfully launched an awesome website and made a client/product manager very happy!
+
+----------
+
+Please submit pull requests to help this document grow.
+
