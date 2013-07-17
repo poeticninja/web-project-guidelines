@@ -7,12 +7,21 @@ Each step is extremely important. When you think through a problem, map it out, 
 Communication to the client or product manager should be made during each step. People like to be part of the process. Maintaining open communication is important in order to allow everyone to see progress, stay on the same page, and allow for transparency within the project.
 
 ##Step 1.
-###Set expectations:
+###Explain the process
 
-This could be setting the expectations to the client or the product manager. They need to understand the process and why each step is important. Good communication is the most important part of any project. Ask for any content that they have available such as logos, images, brochures, anything to help get an idea of the direction the website will be taking will help.
+This could be setting the expectations to the client or the product manager. They need to understand the process and why each step is important. Good communication is the most important part of any project.
 
-##Step 2.
-###Define the Vision, Goal, and Purpose:
+##Step 2. Laying the foundation
+###What is the problem
+Basically this is the justification for having a website. Depending on the site and the business there are different reasons, they could be:
+
+* Reduce time to market. Give up printing paper and going to the web.
+* Direct sale of products. (for e-Commerce)
+* Personal organisation of thoughts and information (blog)
+ 
+Identifying the underlying problem we are trying to solve defines already the rough scope of the website and is an important step to then define goals and sucess criterias.
+
+###Define the Vision, Goal, and Purpose
 
 This is an incredibly valuable step. Defining the vision, goal, and purpose of the website will help make sure everyone really focuses on them through the whole project.
 
