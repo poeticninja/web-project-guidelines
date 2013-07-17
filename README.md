@@ -21,6 +21,8 @@ Basically this is the justification for having a website. Depending on the site 
  
 Identifying the underlying problem we are trying to solve defines already the rough scope of the website and is an important step to then define goals and sucess criterias.
 
+Possibly these question is already answered if this was just a redesign of the site, nevertheless it's a good to go back to the roots and have everyone on the same page on the underlying problem.
+
 ###Define the Vision, Goal, and Purpose
 
 This is an incredibly valuable step. Defining the vision, goal, and purpose of the website will help make sure everyone really focuses on them through the whole project.
