@@ -53,5 +53,5 @@ After the websites artistic design has been created by the graphic designer, tha
 There is a lot that is needed with launching a site. Client review, setting up the proper DNS, making sure redirects are setup, etc. All in all this is what it is all about. If qualtity assurance has been done through each step, then there should not be a lot of work to do.
 
 ##Step 10
-###Maintaine Website and Client Relationship
-This is where you would maintane the upkeep of of the website and keep following up with the client to make sure thay are happy. Now you can look back and say you have successfully launched an awesome website and made a client/product manager very happy!
+###Maintain Website and Client Relationship
+This is where you would maintain the upkeep of of the website and keep following up with the client to make sure thay are happy. Now you can look back and say you have successfully launched an awesome website and made a client/product manager very happy!
