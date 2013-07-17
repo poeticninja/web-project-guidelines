@@ -18,6 +18,17 @@ This is an incredibly valuable step. Defining the vision, goal, and purpose of t
 
 It is a great idea to write everything you can possibly think of. If you can only think of one thing, think why, and dig deeper until you really have that solid vision and purpose. If you have too many ideas, make sure you really define it and focus it. It is important to have a real solid vision, purpose, and goal.
 
+###Define success
+Unless you are a student and trying to learn how to build website, a website should pay off. Paying off must not necessarily mean earning money, it can bean different things for different types of websites:
+
+Here are some examples
+
+* Sales must be at xxx $ (for an e-commerce site)
+* Have 1000 visitors per day (for a marketing site)
+* Have 50 new users per day (for some new fancy service)
+
+These are called KPIs (Key Performance Indicator) and will help you evaluate how successful your website is.
+
 ##Step 3.
 ###Plan how you are going to achieve the vision, purpose, and goal:
 
