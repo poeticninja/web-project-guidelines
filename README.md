@@ -7,16 +7,39 @@ Each step is extremely important. When you think through a problem, map it out, 
 Communication to the client or product manager should be made during each step. People like to be part of the process. Maintaining open communication is important in order to allow everyone to see progress, stay on the same page, and allow for transparency within the project.
 
 ##Step 1.
-###Set expectations:
+###Explain the process
 
-This could be setting the expectations to the client or the product manager. They need to understand the process and why each step is important. Good communication is the most important part of any project. Ask for any content that they have available such as logos, images, brochures, anything to help get an idea of the direction the website will be taking will help.
+This could be setting the expectations to the client or the product manager. They need to understand the process and why each step is important. Good communication is the most important part of any project.
 
-##Step 2.
-###Define the Vision, Goal, and Purpose:
+##Step 2. Laying the foundation
+###What are you trying to accomplish?
+Basically this is the justification for having a website. Depending on the site and the business there are different reasons, they could be:
+
+* Reduce time to market. Give up printing paper and going to the web.
+* Direct sale of products. (for e-Commerce)
+* Personal organisation of thoughts and information (blog)
+* Second revenue (blog)
+ 
+Identifying the underlying problem we are trying to solve defines already the rough scope of the website and is an important step to then define goals and sucess criterias.
+
+Possibly these question is already answered if this was just a redesign of the site, nevertheless it's a good to go back to the roots and have everyone on the same page on the underlying problem.
+
+###Define the Vision, Goal, and Purpose
 
 This is an incredibly valuable step. Defining the vision, goal, and purpose of the website will help make sure everyone really focuses on them through the whole project.
 
 It is a great idea to write everything you can possibly think of. If you can only think of one thing, think why, and dig deeper until you really have that solid vision and purpose. If you have too many ideas, make sure you really define it and focus it. It is important to have a real solid vision, purpose, and goal.
+
+###Define success
+Unless you are a student and trying to learn how to build website, a website should pay off. Paying off must not necessarily mean earning money, it can bean different things for different types of websites:
+
+Here are some examples
+
+* Sales must be at xxx $ (for an e-commerce site)
+* Have 1000 visitors per day (for a marketing site)
+* Have 50 new users per day (for some new fancy service)
+
+These are called KPIs (Key Performance Indicator) and will help you evaluate how successful your website is.
 
 ##Step 3.
 ###Plan how you are going to achieve the vision, purpose, and goal:
