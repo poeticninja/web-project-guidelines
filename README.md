@@ -10,32 +10,35 @@ Communication to the client or product manager should be made during each step. 
 ###Explain the process
 
 This could be setting the expectations to the client or the product manager. They need to understand the process and why each step is important. Good communication is the most important part of any project.
-
+	
 ##Step 2. Laying the foundation
 ###What are you trying to accomplish?
-Basically this is the justification for having a website. Depending on the site and the business there are different reasons, they could be:
 
+This is the basic justification for having a website. Depending on the site and the business there are different reasons, they could be:
+
+* Professional Branding and identifcation
+* A resource on your business or products.
 * Reduce time to market. Give up printing paper and going to the web.
 * Direct sale of products. (for e-Commerce)
-* Personal organisation of thoughts and information (blog)
-* Second revenue (blog)
- 
-Identifying the underlying problem we are trying to solve defines already the rough scope of the website and is an important step to then define goals and sucess criterias.
+* Personal organization of thoughts and information (blog)
 
-Possibly these question is already answered if this was just a redesign of the site, nevertheless it's a good to go back to the roots and have everyone on the same page on the underlying problem.
+Identifying what you are trying to solve defines the rough scope of the project and is an important step to then define the goals and sucess criterias.
+
+Possibly the question is already answered if this was just a redesign of the site. Nevertheless it is good to go back to the roots and have everyone on the same page and working on the same goals.
 
 ###Define the Vision, Goal, and Purpose
 
 This is an incredibly valuable step. Defining the vision, goal, and purpose of the website will help make sure everyone really focuses on them through the whole project.
 
-It is a great idea to write everything you can possibly think of. If you can only think of one thing, think why, and dig deeper until you really have that solid vision and purpose. If you have too many ideas, make sure you really define it and focus it. It is important to have a real solid vision, purpose, and goal.
+It is a great idea to write everything you can possibly think of. If you can only think of one thing, think why, and dig deeper until you really have that solid vision and purpose. If you have too many ideas, make sure you really define it and focus it. It is important to have a real solid vision and purpose.
 
 ###Define success
-Unless you are a student and trying to learn how to build website, a website should pay off. Paying off must not necessarily mean earning money, it can bean different things for different types of websites:
 
-Here are some examples
+Unless you are a student and trying to learn how to build website, a website should pay off. Paying off must not necessarily mean earning money, it can mean different things for different types of websites:
 
-* Sales must be at xxx $ (for an e-commerce site)
+Some examples could be:
+
+* Sales must be at X $ (for an e-commerce site)
 * Have 1000 visitors per day (for a marketing site)
 * Have 50 new users per day (for some new fancy service)
 
