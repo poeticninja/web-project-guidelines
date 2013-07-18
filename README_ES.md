@@ -1,22 +1,22 @@
 #Directrices para la Planificación de un Proyecto Web
 
-Se necesita una buena planificación para crear un sitio web con éxito con la menor cantidad de fricción. Al contar con un proceso paso a paso que le permite ver sus fortalezas y debilidades en cada parte del ciclo de desarrollo.
+Se necesita una buena planificación para crear un sitio web con éxito con la menor cantidad de fricción. Al contar con un proceso paso a paso que le permita ver sus fortalezas y debilidades en cada parte del ciclo de desarrollo.
 
-Cada paso es extremadamente importante. Cuando piensas en un problema, asigne tareas, y trace los planos, para trabajar más rápido y con más precisión.
+Cada paso es extremadamente importante. Cuando piensas en un problema, asigne tareas, y trace planos, para trabajar más rápido y con más precisión.
 
 La comunicación con el cliente o el gerente del producto debe hacerse en cada paso. A las personas les gusta ser parte del proceso. Mantener una comunicación abierta es importante a fin de que todos puedan ver el progreso, permanecer en la misma sintonía , y permitir la transparencia dentro del proyecto.
 
 ##Paso 1.
 ###Establezca expectativas:
 
-Estas podría ser la creación de las expectativas del cliente o el gerente de producto. Ellos necesitan entender el proceso y por qué cada paso es importante. La buena comunicación es la parte más importante de cualquier proyecto. Pregunte por el contenido que tienen disponibles, tales como logos, imágenes, folletos, cualquier cosa para ayudar a tener una idea de la dirección del sitio web, esto ayudare mucho.
+Estas podría ser las expectativas del cliente o el gerente de producto. Ellos necesitan entender el proceso y por qué cada paso es importante. La buena comunicación es la parte más importante de cualquier proyecto. Pregunte por el contenido que tienen disponible, tales como logos, imágenes, folletos, cualquier cosa para ayudar a tener una idea de la dirección del sitio web, esto ayudara mucho.
 
 ##Paso 2.
 ###Definir la Visión, Objetivos y El propósito:
 
-Este es un paso muy valioso. Definir la visión, el objetivo y el propósito de la página web le ayudará a asegurarse de que todo el mundo realmente se centre en ello a través de todo el proyecto.
+Este es un paso muy valioso. Definir la visión, el objetivo y el propósito de la página web, le ayudará a asegurarse de que todo su grupo de trabajo se centre en ello a través de todo el proyecto.
 
-Es una gran idea escribir todo lo que puedas imaginar. Si sólo se puede pensar en una cosa, ¿por qué pensar ?, y cavar más profundo hasta que realmente tiene una visión sólida y un propósito establecido. Si tiene demasiadas ideas, asegúrese de que realmente definirlas y enfocarse en ellas. Es importante tener una visión realmente sólida, un propósito y un objetivo.
+Es una gran idea escribir todo lo que puedas imaginar. Si sólo se puede pensar en una cosa, porqué pensar, y ir más al fondo hasta tener una vision realmente sólida y un propósito establecido. Si tiene demasiadas ideas, asegúrese de definirlas y enfocarse en ellas. Es importante tener una visión sólida, un propósito y un objetivo.
 
 ##Paso 3.
 ###Planifique cómo se va a lograr la visión, el propósito y el objetivo:
